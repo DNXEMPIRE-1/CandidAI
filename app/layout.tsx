@@ -4,9 +4,9 @@ import { Viewport } from "next";
 import { Toaster } from "sonner";
 
 export const metadata = {
-  title: "Brave",
+  title: "CanDid",
   description: "Your Next gen AI interview prep and taking platform",
-  metadataBase: new URL("https://braveai.vercel.app"),
+  metadataBase: new URL("https://CanDidai.vercel.app"),
   manifest: "/manifest.json",
   icons: {
     icon: "/favicon-32x32.png",
@@ -40,3 +40,4 @@ export default function RootLayout({
     </ClerkProvider>
   );
 }
+
