@@ -21,7 +21,7 @@ export function ConfirmModal({
   emails: any;
 }) {
   const [processedContent, setProcessedContent] = useState(content);
-  const [finalSubject, setFinalSubject] = useState("Email from Brave AI");
+  const [finalSubject, setFinalSubject] = useState("Email from CanDid AI");
   const [sent, setSent] = useState(false);
   const [loading, setLoading] = useState(false);
 
@@ -186,3 +186,4 @@ export function ConfirmModal({
     </Dialog>
   );
 }
+
