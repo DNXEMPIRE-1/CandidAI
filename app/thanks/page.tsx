@@ -22,7 +22,7 @@ const Page = () => {
         <br />
         Make your AI forms fast using{" "}
         <Link href="/" className="text-primary font-bold">
-          Brave
+          CanDid
         </Link>
       </p>
 
@@ -43,3 +43,4 @@ const Page = () => {
 };
 
 export default Page;
+
