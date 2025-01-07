@@ -109,10 +109,10 @@ export default function DashLayout({
                 src={"/logo-black-256x256.png"}
                 width={32}
                 height={32}
-                alt="Brave Inc"
+                alt="CanDid Inc"
               />
               <span className="text-lg font-semibold tracking-tight ">
-                Brave
+                CanDid
               </span>
             </Link>
             <Button variant="outline" size="icon" className="ml-auto h-8 w-8">
@@ -181,7 +181,7 @@ export default function DashLayout({
                   href="/dashboard"
                   className="flex items-center gap-2 text-lg font-semibold"
                 >
-                  <span className="sr-only">Brave Inc</span>
+                  <span className="sr-only">CanDid Inc</span>
                 </Link>
                 {pathArray.map((path, index) => (
                   <a
@@ -238,3 +238,4 @@ export default function DashLayout({
     </div>
   );
 }
+
