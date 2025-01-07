@@ -99,7 +99,7 @@ const Chatbox = () => {
                   inter.className
                 )}
               >
-                Brave
+                CanDid
               </span>
               .AI Now!
             </p>
@@ -161,3 +161,4 @@ const Chatbox = () => {
 };
 
 export default Chatbox;
+
