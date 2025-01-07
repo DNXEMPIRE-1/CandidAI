@@ -1,18 +1,18 @@
-# Brave - Power Your Interviews with Brave AI Project Code of Conduct
+# CanDid - Power Your Interviews with CanDid AI Project Code of Conduct
 
 ## Welcome
 
-Welcome to the **Brave** repository! **Brave** is the ultimate AI-powered interview preparation suite designed to simplify and enhance the interview process with advanced AI technology. Our platform helps users generate, personalize, and share detailed interview forms, access tips, mock interviews, expert insights, and create standout resumes that pass applicant tracking systems (ATS). We aim to foster a respectful, inclusive, and collaborative community where contributors can help build a platform that empowers job seekers to ace their interviews and crack the job market.
+Welcome to the **CanDid** repository! **CanDid** is the ultimate AI-powered interview preparation suite designed to simplify and enhance the interview process with advanced AI technology. Our platform helps users generate, personalize, and share detailed interview forms, access tips, mock interviews, expert insights, and create standout resumes that pass applicant tracking systems (ATS). We aim to foster a respectful, inclusive, and collaborative community where contributors can help build a platform that empowers job seekers to ace their interviews and crack the job market.
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in the **Brave** project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in the **CanDid** project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We are committed to contributing to an open, welcoming, diverse, inclusive, and healthy community where all participants feel empowered and respected.
 
 ## Our Standards
 
-To maintain a positive, productive, and collaborative environment in the **Brave** project, all participants are expected to uphold the following standards:
+To maintain a positive, productive, and collaborative environment in the **CanDid** project, all participants are expected to uphold the following standards:
 
 ### Positive Behavior:
 - **Respectful Communication**: Engage respectfully and constructively in discussions, ensuring professionalism and collaboration.
@@ -32,7 +32,7 @@ To maintain a positive, productive, and collaborative environment in the **Brave
 
 ## Project Goals
 
-The **Brave** project aims to create a comprehensive AI-powered platform for interview preparation. The primary goals of the project include:
+The **CanDid** project aims to create a comprehensive AI-powered platform for interview preparation. The primary goals of the project include:
 
 - **AI-Driven Efficiency**: Enhancing the interview process by generating and personalizing detailed interview forms.
 - **Customizable and Shareable Resources**: Providing access to mock interviews, expert insights, and preparation tips.
@@ -43,7 +43,7 @@ The **Brave** project aims to create a comprehensive AI-powered platform for int
 
 ## Enforcement Responsibilities
 
-Community leaders and maintainers of the **Brave** project are responsible for enforcing this Code of Conduct. They are expected to:
+Community leaders and maintainers of the **CanDid** project are responsible for enforcing this Code of Conduct. They are expected to:
 
 - Clearly communicate the standards for acceptable behavior and ensure that all participants are aware of them.
 - Address violations of the Code of Conduct in a timely, fair, and transparent manner.
@@ -52,7 +52,7 @@ Community leaders and maintainers of the **Brave** project are responsible for e
 
 ## Scope
 
-This Code of Conduct applies to all spaces managed by the **Brave** project, including GitHub repositories, issue trackers, discussions, and other communication platforms. It also applies when community members represent the project in public spaces, such as conferences, online events, or forums.
+This Code of Conduct applies to all spaces managed by the **CanDid** project, including GitHub repositories, issue trackers, discussions, and other communication platforms. It also applies when community members represent the project in public spaces, such as conferences, online events, or forums.
 
 ## Reporting Violations
 
@@ -89,7 +89,7 @@ Community leaders will follow these guidelines when determining the consequences
 
 ## Building a Positive Community
 
-At **Brave**, we are dedicated to creating a welcoming, inclusive, and supportive community where developers, designers, and contributors can collaborate to build a robust AI-powered interview preparation platform. By working together, we can create a space where everyone feels empowered to share their ideas, learn, and help improve the project. Let’s work together with respect, integrity, and a shared passion for making interview preparation smarter and more efficient.
+At **CanDid**, we are dedicated to creating a welcoming, inclusive, and supportive community where developers, designers, and contributors can collaborate to build a robust AI-powered interview preparation platform. By working together, we can create a space where everyone feels empowered to share their ideas, learn, and help improve the project. Let’s work together with respect, integrity, and a shared passion for making interview preparation smarter and more efficient.
 
 ## Attribution
 
