@@ -2,13 +2,16 @@ import Image from "next/image";
 
 const Clientsay = () => {
   return (
-    <div className="mx-auto max-w-2xl py-40 px-4s sm:px-6 lg:max-w-7xl lg:px-8" id="reviews">
+    <div
+      className="mx-auto max-w-2xl py-40 px-4s sm:px-6 lg:max-w-7xl lg:px-8"
+      id="reviews"
+    >
       <div className="bg-image-what">
         <h3 className="text-navyblue text-center text-4xl lg:text-6xl font-semibold">
           What say clients about us.
         </h3>
         <h4 className="text-lg font-normal text-darkgray text-center mt-4">
-          Brave is a platform that helps to connect with interviewor around the
+          CanDid is a platform that helps to connect with interviewor around the
           world
         </h4>
 
@@ -31,7 +34,7 @@ const Clientsay = () => {
             />
             <div className="lg:inline-block bg-white rounded-2xl p-5 shadow-sm">
               <p className="text-base font-normal text-center text-darkgray">
-                I am very happy with the service provided by Brave.
+                I am very happy with the service provided by CanDid.
                 <br /> It is very easy to use and the support team
                 <br /> is always available to help me with any issues.
               </p>
@@ -48,3 +51,4 @@ const Clientsay = () => {
 };
 
 export default Clientsay;
+
