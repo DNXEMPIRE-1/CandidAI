@@ -51,7 +51,7 @@ const Navbar = () => {
                   width={40}
                   height={50}
                 />
-                <span className="text-xl">Brave</span>
+                <span className="text-xl">CanDid</span>
               </Link>
             </div>
 
@@ -121,3 +121,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
