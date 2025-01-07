@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="col-span-4 md:col-span-12 lg:col-span-4">
             <div className="flex items-center justify-start px-4 mb-6 gap-2 text-white">
               <img src={"/logo-white-1200x1200.png"} alt="logo" width={60} />
-              <p className="text-3xl font-semibold">Brave</p>
+              <p className="text-3xl font-semibold">CanDid</p>
             </div>
             <div className="flex gap-4">
               <Link href="https://facebook.com" className="footer-fb-icons">
@@ -126,7 +126,7 @@ const Footer = () => {
 
         <div className="py-10 lg:flex items-center justify-between border-t border-t-bordertop">
           <h4 className="text-offwhite text-sm text-center lg:text-start font-normal">
-            @2024 Brave. All Rights Reserved by{" "}
+            @2024 CanDid. All Rights Reserved by{" "}
             <Link href="https://adminmart.com/" target="_blank">
               {" "}
               EdgeX
@@ -152,3 +152,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
