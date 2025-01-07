@@ -24,7 +24,7 @@ const Banner = () => {
               <h1 className="text-4xl font-bold tracking-tight max-w-4xl mx-auto text-navyblue sm:text-5xl lg:text-7xl md:4px">
                 Power your interviews with{" "}
                 <span>
-                  <SparklesText text="Brave" />{" "}
+                  <SparklesText text="CanDid" />{" "}
                 </span>
                 AI
               </h1>
@@ -36,8 +36,8 @@ const Banner = () => {
             >
               <p className="mt-6 text-lg max-w-prose text-center mx-auto leading-8 text-bluegray">
                 Don&apos;t be afraid! You can ace that interview! You can crack
-                the job! we got you covered. Be Smarter! Be Brave, Use{" "}
-                <span className="text-primary font-bold">Brave</span>!
+                the job! we got you covered. Be Smarter! Be CanDid, Use{" "}
+                <span className="text-primary font-bold">CanDid</span>!
               </p>
             </motion.div>
           </div>
@@ -62,3 +62,4 @@ const Banner = () => {
 };
 
 export default Banner;
+
